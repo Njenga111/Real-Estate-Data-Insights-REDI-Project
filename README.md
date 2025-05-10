@@ -12,7 +12,7 @@ Real Estate Data Insights (REDI) is a Python-based ETL pipeline that scrapes rea
 
 ---
 ### **Project Structure**
-/Real Estate Data Insights (REDI)/
+Real Estate Data Insights (REDI)
 ├── .env # Store sensitive configuration like DB credentials
 ├── .gitignore # Excludes files such as virtual environments and logs
 ├── main.py # Script to run the entire ETL pipeline
