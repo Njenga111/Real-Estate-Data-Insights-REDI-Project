@@ -1,7 +1,7 @@
 # **Real Estate Data Insights (REDI)**
 
 ### **Project Overview**
-Real Estate Data Insights (REDI) is a Python-based ETL pipeline that scrapes real estate data from two major Kenyan property websites [BuyRentKenya](http://buyrentkenya.com). It cleans, transforms, and loads the data into a PostgreSQL database for further analysis and visualization through Power BI dashboards.
+Real Estate Data Insights (REDI) is a Python-based ETL pipeline that scrapes real estate data from two major Kenyan property website [BuyRentKenya](http://buyrentkenya.com). It cleans, transforms, and loads the data into a PostgreSQL database for further analysis and visualization through Power BI dashboards.
 
 ---
 
