@@ -16,7 +16,6 @@ Real Estate Data Insights (REDI)
 
 ---
 ### Contributing
-If you’d like to contribute, please follow the following steps:
 
 1.Fork the repository
 2.Create a feature branch
