@@ -7,7 +7,7 @@ Real Estate Data Insights (REDI) is a Python-based ETL pipeline that scrapes rea
 
 ### **Key Features**
 - **Data Extraction**: Scrapes property data (e.g., location, price, size) from Property254 and BuyRentKenya.
-- **Data Transformation**: Cleans data by handling missing values, formatting, and ensuring.
+- **Data Transformation**: Cleans data by handling missing values, formatting, and ensuring consistency.
 - **Data Loading**: Loads the cleaned data into a PostgreSQL database for future analysis.
 
 ---
